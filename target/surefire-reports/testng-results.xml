@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-14T16:42:43 IST" name="Suite" finished-at="2020-12-14T16:42:43 IST" duration-ms="216">
+    <groups>
+    </groups>
+    <test started-at="2020-12-14T16:42:43 IST" name="Test" finished-at="2020-12-14T16:42:43 IST" duration-ms="216">
+      <class name="qaclickacademy.mavenjava.seleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qaclickacademy.mavenjava.seleniumTest@48524010]" started-at="2020-12-14T16:42:43 IST" name="BrowserAutomation" finished-at="2020-12-14T16:42:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementUI()[pri:0, instance:qaclickacademy.mavenjava.seleniumTest@48524010]" started-at="2020-12-14T16:42:43 IST" name="elementUI" finished-at="2020-12-14T16:42:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- qaclickacademy.mavenjava.seleniumTest -->
+      <class name="qaclickacademy.mavenjava.appiumTest">
+        <test-method signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.mavenjava.appiumTest@3ee0fea4]" started-at="2020-12-14T16:42:43 IST" name="NativeAppAndroid" finished-at="2020-12-14T16:42:43 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method signature="NativeAppiOS()[pri:0, instance:qaclickacademy.mavenjava.appiumTest@3ee0fea4]" started-at="2020-12-14T16:42:43 IST" name="NativeAppiOS" finished-at="2020-12-14T16:42:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppiOS -->
+      </class> <!-- qaclickacademy.mavenjava.appiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
